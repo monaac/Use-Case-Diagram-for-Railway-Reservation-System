@@ -1,0 +1,3 @@
+Use Case Diagram for Railway Reservation
+Managing customer information is a use case diagram that shows how the main user of the system can control who can use the system and who can’t.
+So, you can see that the customer should be able to add their information to the system. The system will then check its details to make sure they are correct, and then it will save the data.
